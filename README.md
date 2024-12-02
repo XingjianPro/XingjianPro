@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @XingjianPro
 - 👀 I’m interested in Physics, Astronomy and Electronic Technology
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Condense Matter Physics
 
 <!---
 XingjianPro/XingjianPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
